@@ -1,0 +1,31 @@
+{
+  "status": "OK",
+  "status-code": 200,
+  "version": "1.0",
+  "access": "public",
+  "data": 
+  [
+    { "country": "Ethiopia", "region": "Africa" }, 
+    { "country": "South Africa", "region": "Africa" 
+    },
+    { "country": "Nigeria", "region": "Africa" }, 
+    { "country": "United States", "region": "North America" },
+{ "country": "Canada", "region": "North America" },
+{ "country": "Mexico", "region": "North America" },
+{ "country": "Brazil", "region": "South America" },
+{ "country": "Argentina", "region": "South America" },
+{ "country": "Peru", "region": "South America" },
+{ "country": "France", "region": "Europe" },
+{ "country": "Germany", "region": "Europe" },
+{ "country": "Spain", "region": "Europe" },
+{ "country": "China", "region": "Asia" },
+{ "country": "Japan", "region": "Asia" },
+{ "country": "India", "region": "Asia" },
+{ "country": "Australia", "region": "Oceania" },
+{ "country": "New Zealand", "region": "Oceania" },
+{ "country": "Fiji", "region": "Oceania" },
+{ "country": "Egypt", "region": "Africa" },
+
+    { "country": "United Kingdom", "region": "Europe" }
+  ]
+}
